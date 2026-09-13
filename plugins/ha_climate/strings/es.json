@@ -1,16 +1,16 @@
 {
   "not_found": "no encontrado",
   "mode_off": "apagado",
-  "mode_heat": "calor",
+  "mode_heat": "caliente",
   "mode_cool": "frío",
-  "mode_heat_cool": "calor frío",
-  "mode_auto": "auto",
+  "mode_heat_cool": "caliente frío",
+  "mode_auto": "automatico",
   "mode_dry": "seco",
   "mode_fan_only": "ventilador",
   "humidity_tip_target": "humedad {h}% (objetivo {t}%)",
   "humidity_tip": "humedad {h}%",
   "target": "Objetivo",
   "climate": "Climatización",
-  "no_entities_selected": "Sin entidades seleccionadas.",
+  "no_entities_selected": "Ninguna entidades seleccionadas.",
   "zones": "ZONAS"
 }
