@@ -1,8 +1,8 @@
 {
   "weather": "Clima",
   "cond_sunny": "Soleado",
-  "cond_mostly_clear": "Casi despejado",
-  "cond_partly_cloudy": "Algo nublado",
+  "cond_mostly_clear": "Parcialmente despejado",
+  "cond_partly_cloudy": "Parcialmente nublado",
   "cond_cloudy": "Nublado",
   "cond_fog": "Niebla",
   "cond_drizzle": "Llovizna",
